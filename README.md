@@ -1,4 +1,4 @@
-# Wistia Video Downloader
+# Wistia Video Downloader ~
 
 ## Download
 
